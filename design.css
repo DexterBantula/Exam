@@ -1,0 +1,30 @@
+/* css h1 */
+h1 {
+  color: #f123f1;
+  font-size: 3rem;
+}
+p {
+  color: green;
+  background-color: yellow;
+}
+.title {
+  color: rgb(255, 245, 123);
+  background-color: green;
+}
+span {
+  text-transform: lowercase;
+  color: rgba(238, 23, 23, 0.5);
+}
+#load {
+  font-family: "Courier New", Courier, monospace;
+  line-height: 1 em;
+}
+#wala {
+  font-size: 10px;
+}
+.relative {
+  font-size: 2rem;
+}
+.absolute {
+  font-size: 32px;
+}
